@@ -1,4 +1,4 @@
-version: "3.9"  # Specify the docker-compose version
+# Please go through README first
 
 services:
   immich-server:
